@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Massimo Missio ✌️
 
 
 
@@ -9,5 +9,5 @@
 
  ⚡ I've being passionate about computer science since the beginnig of my university career and I'm obviously a lover of technologies.
  
- :snowboarder: 
+ 🏂⛰️🍻 I like practice sport, hang out with friends and mountain.
 
