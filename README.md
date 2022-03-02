@@ -9,5 +9,5 @@
 
  ⚡ I've being passionate about computer science since the beginnig of my university career and I'm obviously a lover of technologies.
  
- 🏂⛰️🍻 I like practice sport, hang out with friends and mountain.
+ 🏂⛰️🍻 I like to practice sports, hang out with friends and mountain.
 
