@@ -5,7 +5,9 @@
 
 
 
- 🔭 I’m an Informatic Engineer in Politecnico di Torino, I am continuig to study in Torino to reach the master's degree in Computer Engineering Cybersecurity.
+ 🔭 I’m an Informatic Engineer in Politecnico di Torino and I'm continuig to study in Torino to reach the master's degree in Computer Engineering Cybersecurity.
 
- ⚡ I am a computer science enthusiast since my first university exam.
+ ⚡ I've being passionate about computer science since the beginnig of my university career and I'm obviously a lover of technologies.
+ 
+ :snowboarder: 
 
